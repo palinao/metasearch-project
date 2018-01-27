@@ -3,8 +3,8 @@ Code, runs and evaluation results for the metasearch-project (IR class of MS in 
 
 Folder contents:
 
-- runs : the 10 original runs generated with Terrier and the related settings files, named after the model.
-- results : the merged runs obtained with the basic strategies, named after the strategy.
+- runs : the 10 original runs generated with Terrier and the related settings files, they are named after the model.
+- results : the merged runs obtained with the rank fusion strategies, named after the strategy.
 - measures : the trec_eval output for the merged runs, named after the strategy.
 
 ---------------------------------------------------------------------------------------------------------------------
